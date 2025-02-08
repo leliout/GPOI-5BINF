@@ -9,6 +9,6 @@ GPOI è la disciplina che approfondisce i principi fondamentali della gestione d
 ✅ Organizzazione Aziendale – Strutture, ruoli e dinamiche delle imprese.  
 ✅ Tipologie di Progetto – Differenze tra progetti industriali, tecnologici e di servizio.  
 
-<img class="image-inline captioned" src="gpoi.jpg" alt="rose" />
+<img src="gpoi.jpg" alt="rose" />
 Perché è importante GPOI?
 Conoscere i principi di GPOI è essenziale per chiunque voglia lavorare nella gestione d’impresa, nell’innovazione o nel project management. Aiuta a sviluppare competenze pratiche e strategiche per affrontare le sfide del mondo del lavoro moderno.
